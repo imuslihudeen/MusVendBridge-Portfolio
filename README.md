@@ -1,4 +1,4 @@
-# MusVendBridge-Portfolio
+# VendBridge-Portfolio
 
 This project focused on analysing customer churn and retention patterns at Veritas Bank, a multinational retail bank operating in the UK, Germany, and France.
 
